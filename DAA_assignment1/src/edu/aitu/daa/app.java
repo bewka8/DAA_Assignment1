@@ -7,7 +7,7 @@ import edu.aitu.daa.metrics.Metrics;
 
 import java.util.Arrays;
 
-public class App {
+public class app {
 
     public static void main(String[] args) {
         int[] original = {8, 3, 5, 3, 9, 1, 7, 3, 2, 6, 4};
