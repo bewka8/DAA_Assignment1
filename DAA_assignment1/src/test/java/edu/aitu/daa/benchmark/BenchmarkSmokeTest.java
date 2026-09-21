@@ -1,4 +1,4 @@
-package test.edu.aitu.daa.benchmark;
+package edu.aitu.daa.benchmark;
 
 import edu.aitu.daa.algorithms.MergeSort;
 import edu.aitu.daa.algorithms.QuickSelect;

@@ -1,5 +1,4 @@
-package test.edu.aitu.daa.algorithms;
-
+package edu.aitu.daa.algorithms;
 import edu.aitu.daa.metrics.Metrics;
 import java.util.Arrays;
 import java.util.Random;
